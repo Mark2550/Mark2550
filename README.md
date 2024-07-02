@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 -->
 -  💻 Working on personal projects
 -  📘 Main learning goal is Python and React (JS/TS)
-###✨ This README is a test ✨
+### ✨ This README is a test ✨
