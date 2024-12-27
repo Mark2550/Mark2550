@@ -1,16 +1,11 @@
-## Hi there 👋
+## Welcome to my ✨Profile✨ 👋
 -  💻 Working on personal projects
 -  📘 Main learning goal is Python, Java, C# & React (JS/TS)
-### ✨ This README is a test ✨
 
+- University projects:
+-   
 <!--
+
 - Fullstack projects:
 - Frontend projects:
 - Backend projects:
-
-
-<!-- For self
-General git:
-- git init
-- git add .
-- git 
