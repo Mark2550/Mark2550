@@ -3,6 +3,7 @@
 -  📘 Main learning goal is Python, Java, C# & React (JS/TS)
 
 - University projects:
+  - (Numerical methods)[https://github.com/Mark2550/nummod]
 -   
 <!--
 
