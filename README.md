@@ -1,8 +1,9 @@
 ## Welcome to my ✨Profile✨ 👋
 -  💻 Working on personal projects
 -  📘 Familiar with:
-    - Python, Java, C#, Unity
-    - ReactJS, HTML, CSS, MUI, Tailwind
+    - Python, Flask, Tkinter, Java (Maven), Springboot C#, Unity
+    - ReactJS, HTML, CSS, MUI, Tailwind, D3js
+    - PostgreSQL
 
 - University projects:
   - [Numerical methods](https://github.com/Mark2550/nummod)
