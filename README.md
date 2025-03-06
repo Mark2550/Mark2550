@@ -6,14 +6,13 @@
     - PostgreSQL
 
 - University projects:
-  - [Numerical methods](https://github.com/Mark2550/nummod)
-  - [Thesis](https://github.com/Mark2550/Szakdolgozat)
-  - [Progmod - Python CLI](https://github.com/Mark2550/MenuBeadando)
-  - [Progmod - Java Student manager CLI](https://github.com/Mark2550/C2_PMI_BEADANDO)
-  - [Progmod - Java Car manager CLI](https://github.com/KITT227529/carmanager-T-)
+    - [Numerical methods](https://github.com/Mark2550/nummod)
+    - [Thesis](https://github.com/Mark2550/Szakdolgozat)
+    - [Progmod - Python CLI](https://github.com/Mark2550/MenuBeadando)
+    - [Progmod - Java Student manager CLI](https://github.com/Mark2550/C2_PMI_BEADANDO)
+    - [Progmod - Java Car manager CLI](https://github.com/KITT227529/carmanager-T-)
 - Self projects:    
-    - Python:
-      - [Cursor converter](https://github.com/Mark2550/Cursor_Converter)
+    - [Cursor converter](https://github.com/Mark2550/Cursor_Converter) [Python+Tkinter]
   <!-- [Pixelify - Pixelate any images] ()
   <!--  [Family Tree] ()
 <!--
