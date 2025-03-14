@@ -2,7 +2,7 @@
 -  💻 Working on personal projects
 -  📘 Familiar with:
     - Python, Flask, Tkinter, Java (Maven), Springboot C#, Unity
-    - ReactJS, HTML, CSS, MUI, Tailwind, D3js
+    - ReactJS, HTML, CSS, MUI, Tailwind
     - PostgreSQL
 
 - University projects:
@@ -13,7 +13,8 @@
     - [Progmod - Java Car manager CLI](https://github.com/KITT227529/carmanager-T-)
 - Self projects:    
     - [Cursor converter](https://github.com/Mark2550/Cursor_Converter) [Python]
-    - [Image downscaler]
+    - [Image downscaler]()
+    - [Family Tree]()
   <!-- [Pixelify - Pixelate any images] ()
   <!--  [Family Tree] ()
 <!--
