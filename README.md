@@ -2,7 +2,7 @@
 -  💻 Working on personal projects
 -  📘 Familiar with:
     - Python, Flask, Tkinter, Java (Maven), Springboot C#, Unity
-    - ReactJS, HTML, CSS, MUI, Tailwind
+    - ReactJS, PHP, HTML, CSS, MUI, Tailwind
     - PostgreSQL
 
 - University projects:
@@ -14,7 +14,7 @@
 - Self projects:    
     - [Cursor converter](https://github.com/Mark2550/Cursor_Converter) [Python]
     - [Image downscaler]()
-    - [Family Tree]()
+    - [Family Tree]() - currently private 
   <!-- [Pixelify - Pixelate any images] ()
   <!--  [Family Tree] ()
 <!--
