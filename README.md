@@ -13,7 +13,7 @@
     - [Progmod - Java Car manager CLI](https://github.com/KITT227529/carmanager-T-)
 - Self projects:    
     - [Cursor converter](https://github.com/Mark2550/Cursor_Converter) [Python]
-    - [Image downscaler]()
+    - [Image downscaler](https://github.com/Mark2550/Python-projects/tree/main/Pixelate%20image) - currently private
     - [Family Tree]() - currently private 
   <!-- [Pixelify - Pixelate any images] ()
   <!--  [Family Tree] ()
